@@ -1,7 +1,7 @@
 # LLM-Rationality-Benchmark
 
 # ./SM_measurement_questions.docx
-The measured questions in the benchmark, including all the scales and tests in **psychology**, **cognitive and behaviorial science**, **decision-making**, **economics**, and **societal** domains, and prompts for **game theory** and **cooperation and coordination** domains.  
+The measured questions in the benchmark, including all the scales and tests in **psychology**, **cognitive science**, **decision-making**, **economics**, and **societal** domains, and prompts for **game theory** and **cooperation and coordination** domains.  
 (These questions are also included in the code file.)
 
 # ./code_release 
